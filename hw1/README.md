@@ -2,7 +2,7 @@
 The goal of this homework assignment is to observe audio files using Fourier Transforms and match what you see with what you hear. 
 
 ## Due date and deliverables
-- **Oct 1 (Tue), 11:59pm**
+- **Sep 21 (Sun), 11:59pm**
 - Deliverables: report (.pdf), source code (.ipynb), and audio file (.wav) 
 - Make a zip file and submit it to KLMS.
 
