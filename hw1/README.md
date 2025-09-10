@@ -3,7 +3,7 @@ The goal of this homework assignment is to observe audio files using Fourier Tra
 
 ## Due date and deliverables
 - **Sep 21 (Sun), 11:59pm**
-- Deliverables: report (.pdf), source code (.ipynb), and audio file (.wav) 
+- Deliverables: report (.pdf) and audio file (.wav) 
 - Make a zip file and submit it to KLMS.
 
 
